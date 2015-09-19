@@ -18,5 +18,6 @@ setup(name='topo',
       packages=['topo'],
       install_requires=[
           'requests',
+          'pyproj',
           ],
       )
